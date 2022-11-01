@@ -14,3 +14,9 @@ on the form and error modal (popup) will display in case of any invalidation.
 * Error validation
 * Reusability for common ui components (button,card)
 * CSS modules for separation of css from other components
+
+## Demo
+
+
+https://user-images.githubusercontent.com/60657039/199258591-509b4b9f-3bf6-4071-8b6a-160c477f59cf.mp4
+
