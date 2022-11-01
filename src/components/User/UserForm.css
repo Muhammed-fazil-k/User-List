@@ -1,0 +1,20 @@
+.form-container{
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+}
+
+.input-item{
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: flex-start;
+}
+.input-item label{
+    font-weight: bold;
+}
+.input-item input{
+    padding: 5px;
+    width: 98%;
+}
